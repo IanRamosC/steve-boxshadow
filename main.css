@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  background: #bdc3c7
+}
+.holder {
+  width: 710px;
+  margin-top: 100px;
+}
+.steve {
+  width: 80px;
+  height: 80px;
+  box-shadow: 80px 0 0 #2B1A05,
+              150px 0 0 #271805,
+              220px 0 0 #2B1906,
+              290px 0 0 #231603,
+              360px 0 0 #1F1102,
+              430px 0 0 #211303,
+              500px 0 0 #271805,
+              570px 0 0 #251705,
+
+              80px 80px 0 #271805,
+              150px 80px 0 #271805,
+              220px 80px 0 #271805,
+              290px 80px 0 #301F08,
+              360px 80px 0 #40250A,
+              430px 80px 0 #3D250D,
+              500px 80px 0 #281806,
+              570px 80px 0 #231603,
+
+              80px 150px 0 #271805,
+              150px 150px 0 #B78A6C,
+              220px 150px 0 #BE8F73,
+              290px 150px 0 #C79781,
+              360px 150px 0 #BE8C73,
+              430px 150px 0 #BE8F75,
+              500px 150px 0 #AD775A,
+              570px 150px 0 #31200A,
+
+              80px 220px 0 #AC7E66,
+              150px 220px 0 #B5856D,
+              220px 220px 0 #AC7E66,
+              290px 220px 0 #AE816D,
+              360px 220px 0 #9D735C,
+              430px 220px 0 #BC8A73,
+              500px 220px 0 #9D694B,
+              570px 220px 0 #9D694B,
+
+              80px 290px 0 #B5856D,
+              150px 290px 0 #FFFFFF,
+              220px 290px 0 #4437A6,
+              290px 290px 0 #B67C67,
+              360px 290px 0 #BC8A73,
+              430px 290px 0 #4437A6,
+              500px 290px 0 #FFFFFF,
+              570px 290px 0 #AC7E66,
+
+              80px 360px 0 #9D6344,
+              150px 360px 0 #B47C62,
+              220px 360px 0 #B88373,
+              290px 360px 0 #6A3E2C,
+              360px 360px 0 #6A3E2C,
+              430px 360px 0 #BF896C,
+              500px 360px 0 #A36A45,
+              570px 360px 0 #815231,
+
+              80px 430px 0 #915E41,
+              150px 430px 0 #975F3E,
+              220px 430px 0 #3F1B04,
+              290px 430px 0 #8B4B3A,
+              360px 430px 0 #8B4B3A,
+              430px 430px 0 #3F1B04,
+              500px 430px 0 #905E3C,
+              570px 430px 0 #825236,
+
+              80px 500px 0 #704328,
+              150px 500px 0 #6D4125,
+              220px 500px 0 #3F1B04,
+              290px 500px 0 #401703,
+              360px 500px 0 #431D06,
+              430px 500px 0 #431D06,
+              500px 500px 0 #845438,
+              570px 500px 0 #7B4D30;
+}
