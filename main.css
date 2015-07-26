@@ -83,3 +83,27 @@ body {
               500px 500px 0 #845438,
               570px 500px 0 #7B4D30;
 }
+.steve-eye {
+  width: 140px;
+  height: 70px;
+  background: #9D735C;
+  position: absolute;
+  top: 300px;
+  opacity: 0;
+  animation: blinking 10s infinite;
+}
+.steve-eye.left {
+  left: 160px;
+}
+.steve-eye.right {
+  right: 130px;
+}
+
+@keyframes blinking {
+  25% {opacity:0}
+  26% {opacity:1}
+  27% {opacity:0}
+  45% {opacity:0}
+  46% {opacity:1}
+  47% {opacity:0}
+}
