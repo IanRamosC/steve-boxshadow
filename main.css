@@ -1,94 +1,94 @@
 body {
-  margin: 0;
+  background: #bdc3c7;
   display: flex;
   justify-content: center;
-  background: #bdc3c7
 }
 .holder {
-  width: 710px;
-  margin-top: 100px;
+  width: 800px;  
+  margin-top: 50px;
+  position: relative;
 }
 .steve {
   width: 80px;
   height: 80px;
   box-shadow: 80px 0 0 #2B1A05,
-              150px 0 0 #271805,
-              220px 0 0 #2B1906,
-              290px 0 0 #231603,
-              360px 0 0 #1F1102,
-              430px 0 0 #211303,
-              500px 0 0 #271805,
-              570px 0 0 #251705,
+              160px 0 0 #271805,
+              240px 0 0 #2B1906,
+              320px 0 0 #231603,
+              400px 0 0 #1F1102,
+              480px 0 0 #211303,
+              560px 0 0 #271805,
+              640px 0 0 #251705,
 
               80px 80px 0 #271805,
-              150px 80px 0 #271805,
-              220px 80px 0 #271805,
-              290px 80px 0 #301F08,
-              360px 80px 0 #40250A,
-              430px 80px 0 #3D250D,
-              500px 80px 0 #281806,
-              570px 80px 0 #231603,
+              160px 80px 0 #271805,
+              240px 80px 0 #271805,
+              320px 80px 0 #301F08,
+              400px 80px 0 #40250A,
+              480px 80px 0 #3D250D,
+              560px 80px 0 #281806,
+              640px 80px 0 #231603,
 
-              80px 150px 0 #271805,
-              150px 150px 0 #B78A6C,
-              220px 150px 0 #BE8F73,
-              290px 150px 0 #C79781,
-              360px 150px 0 #BE8C73,
-              430px 150px 0 #BE8F75,
-              500px 150px 0 #AD775A,
-              570px 150px 0 #31200A,
+              80px 160px 0 #271805,
+              160px 160px 0 #B78A6C,
+              240px 160px 0 #BE8F73,
+              320px 160px 0 #C79781,
+              400px 160px 0 #BE8C73,
+              480px 160px 0 #BE8F75,
+              560px 160px 0 #AD775A,
+              640px 160px 0 #31200A,
 
-              80px 220px 0 #AC7E66,
-              150px 220px 0 #B5856D,
-              220px 220px 0 #AC7E66,
-              290px 220px 0 #AE816D,
-              360px 220px 0 #9D735C,
-              430px 220px 0 #BC8A73,
-              500px 220px 0 #9D694B,
-              570px 220px 0 #9D694B,
+              80px 240px 0 #AC7E66,
+              160px 240px 0 #B5856D,
+              240px 240px 0 #AC7E66,
+              320px 240px 0 #AE816D,
+              400px 240px 0 #9D735C,
+              480px 240px 0 #BC8A73,
+              560px 240px 0 #9D694B,
+              640px 240px 0 #9D694B,
 
-              80px 290px 0 #B5856D,
-              150px 290px 0 #FFFFFF,
-              220px 290px 0 #4437A6,
-              290px 290px 0 #B67C67,
-              360px 290px 0 #BC8A73,
-              430px 290px 0 #4437A6,
-              500px 290px 0 #FFFFFF,
-              570px 290px 0 #AC7E66,
+              80px 320px 0 #B5856D,
+              160px 320px 0 #FFFFFF,
+              240px 320px 0 #4437A6,
+              320px 320px 0 #B67C67,
+              400px 320px 0 #BC8A73,
+              480px 320px 0 #4437A6,
+              560px 320px 0 #FFFFFF,
+              640px 320px 0 #AC7E66,
 
-              80px 360px 0 #9D6344,
-              150px 360px 0 #B47C62,
-              220px 360px 0 #B88373,
-              290px 360px 0 #6A3E2C,
-              360px 360px 0 #6A3E2C,
-              430px 360px 0 #BF896C,
-              500px 360px 0 #A36A45,
-              570px 360px 0 #815231,
+              80px 400px 0 #9D6344,
+              160px 400px 0 #B47C62,
+              240px 400px 0 #B88373,
+              320px 400px 0 #6A3E2C,
+              400px 400px 0 #6A3E2C,
+              480px 400px 0 #BF896C,
+              560px 400px 0 #A36A45,
+              640px 400px 0 #815231,
 
-              80px 430px 0 #915E41,
-              150px 430px 0 #975F3E,
-              220px 430px 0 #3F1B04,
-              290px 430px 0 #8B4B3A,
-              360px 430px 0 #8B4B3A,
-              430px 430px 0 #3F1B04,
-              500px 430px 0 #905E3C,
-              570px 430px 0 #825236,
+              80px 480px 0 #915E41,
+              160px 480px 0 #975F3E,
+              240px 480px 0 #3F1B04,
+              320px 480px 0 #8B4B3A,
+              400px 480px 0 #8B4B3A,
+              480px 480px 0 #3F1B04,
+              560px 480px 0 #905E3C,
+              640px 480px 0 #825236,
 
-              80px 500px 0 #704328,
-              150px 500px 0 #6D4125,
-              220px 500px 0 #3F1B04,
-              290px 500px 0 #401703,
-              360px 500px 0 #431D06,
-              430px 500px 0 #431D06,
-              500px 500px 0 #845438,
-              570px 500px 0 #7B4D30;
+              80px 560px 0 #704328,
+              160px 560px 0 #6D4125,
+              240px 560px 0 #3F1B04,
+              320px 560px 0 #401703,
+              400px 560px 0 #431D06,
+              480px 560px 0 #431D06,
+              560px 560px 0 #845438,
+              640px 560px 0 #7B4D30;
 }
 .steve-eye {
-  width: 140px;
-  height: 70px;
+  width: 160px;
+  height: 80px;
   background: #9D735C;
   position: absolute;
-  top: 300px;
+  top: 320px;
   opacity: 0;
   animation: blinking 10s infinite;
 }
@@ -96,14 +96,13 @@ body {
   left: 160px;
 }
 .steve-eye.right {
-  right: 130px;
+  right: 70px;
 }
 
 @keyframes blinking {
-  25% {opacity:0}
-  26% {opacity:1}
-  27% {opacity:0}
-  45% {opacity:0}
-  46% {opacity:1}
-  47% {opacity:0}
+  25%      {opacity:0}
+  26%      {opacity:1}
+  27%, 45% {opacity:0}
+  46%      {opacity:1}
+  47%      {opacity:0}
 }
