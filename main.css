@@ -4,7 +4,7 @@ body {
   justify-content: center;
 }
 .holder {
-  width: 800px;  
+  width: 720px;  
   margin-top: 50px;
   position: relative;
 }
@@ -96,7 +96,7 @@ body {
   left: 160px;
 }
 .steve-eye.right {
-  right: 70px;
+  right: 80px;
 }
 
 @keyframes blinking {
